@@ -1,0 +1,36 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+# Gradle
+bin/
+build/
+.gradle
+
+# IntelliJ
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio Code
+.vscode/
+.settings/
+.code-workspace
+
+# MacOS
+.DS_Store
